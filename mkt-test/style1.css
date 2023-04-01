@@ -9,12 +9,12 @@
 }
 
 body {
-    background: #007bff;
+    background: #2d3436;
 }
 
 ::selection {
-    color: #fff;
-    background: #007bff;
+    color: #dfe6e9;
+    background: #2d3436;
 }
 
 .start_btn,
@@ -38,31 +38,21 @@ body {
     transform: translate(-50%, -50%) scale(1);
 }
 
-.input {
-    height: 40px;
-    width: 60px;
-    padding: 0 10px;
-    border-radius: 3px;
-    border: 1px solid #007bff;
-    font-size: 18px;
-    outline: none;
-}
-
 .start_btn button {
     font-size: 25px;
     font-weight: 500;
-    color: #007bff;
+    color: #2d3436;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 5px;
-    background: #fff;
+    background: #dfe6e9;
     cursor: pointer;
 }
 
 .info_box {
-    width: auto;
-    background: #fff;
+    width: 550px;
+    background: #dfe6e9;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -84,9 +74,6 @@ body {
 
 .info_box .info-list {
     padding: 15px 30px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
 }
 
 .info_box .info-list .info {
@@ -96,7 +83,7 @@ body {
 
 .info_box .info-list .info span {
     font-weight: 600;
-    color: #007bff;
+    color: #2d3436;
 }
 
 .info_box .buttons {
@@ -118,13 +105,13 @@ body {
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #2d3436;
     transition: all 0.3s ease;
 }
 
 .quiz_box {
     width: 550px;
-    background: #fff;
+    background: #dfe6e9;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -137,7 +124,7 @@ body {
     z-index: 2;
     height: 70px;
     padding: 0 30px;
-    background: #fff;
+    background: #dfe6e9;
     border-radius: 5px 5px 0 0;
     display: flex;
     align-items: center;
@@ -146,7 +133,7 @@ body {
 }
 
 .quiz_box header .runbox {
-    background: #fff;
+    background: #dfe6e9;
     display: flex;
     align-items: flex-end;
 }
@@ -156,7 +143,7 @@ body {
     width: 60px;
     padding: 0 10px;
     border-radius: 3px;
-    border: 1px solid #007bff;
+    border: 1px solid #2d3436;
     font-size: 18px;
     outline: none;
 }
@@ -167,8 +154,8 @@ body {
 }
 
 .quiz_box header .timer {
-    color: #004085;
-    background: #cce5ff;
+    color: #636e72;
+    background: #00b894;
     border: 1px solid #b8daff;
     height: 45px;
     padding: 0 8px;
@@ -190,7 +177,7 @@ body {
     font-weight: 500;
     height: 30px;
     width: 45px;
-    color: #fff;
+    color: #dfe6e9;
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
@@ -204,7 +191,7 @@ body {
     bottom: 0px;
     left: 0px;
     height: 3px;
-    background: #007bff;
+    background: #2d3436;
 }
 
 .quiz_box .run_button button {
@@ -217,13 +204,13 @@ body {
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #2d3436;
     transition: all 0.3s ease;
 }
 
 section {
     padding: 25px 30px 20px 30px;
-    background: #fff;
+    background: #dfe6e9;
 }
 
 section .que_text {
@@ -255,14 +242,14 @@ section .option_list .option:last-child {
 }
 
 section .option_list .option:hover {
-    color: #004085;
-    background: #cce5ff;
+    color: #636e72;
+    background: #00b894;
     border: 1px solid #b8daff;
 }
 
 section .option_list .option.correct {
     color: #155724;
-    background: #d4edda;
+    background: #55efc4;
     border: 1px solid #c3e6cb;
 }
 
@@ -291,7 +278,7 @@ section .option_list .option .icon {
 .option_list .option .icon.tick {
     color: #23903c;
     border-color: #23903c;
-    background: #d4edda;
+    background: #55efc4;
 }
 
 .option_list .option .icon.cross {
@@ -331,10 +318,10 @@ footer button {
     cursor: pointer;
     border: none;
     outline: none;
-    color: #fff;
+    color: #dfe6e9;
     border-radius: 5px;
-    background: #007bff;
-    border: 1px solid #007bff;
+    background: #2d3436;
+    border: 1px solid #2d3436;
     line-height: 10px;
     opacity: 0;
     pointer-events: none;
@@ -343,7 +330,7 @@ footer button {
 }
 
 footer button:hover {
-    background: #0263ca;
+    background: #6c5ce7;
 }
 
 footer button.show {
@@ -353,7 +340,7 @@ footer button.show {
 }
 
 .result_box {
-    background: #fff;
+    background: #dfe6e9;
     border-radius: 5px;
     display: flex;
     padding: 25px 30px;
@@ -369,7 +356,7 @@ footer button.show {
 
 .result_box .icon {
     font-size: 100px;
-    color: #007bff;
+    color: #2d3436;
     margin-bottom: 10px;
 }
 
@@ -405,35 +392,35 @@ footer button.show {
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #2d3436;
     transition: all 0.3s ease;
 }
 
 .buttons button.restart {
-    color: #fff;
-    background: #007bff;
+    color: #dfe6e9;
+    background: #2d3436;
 }
 
 .buttons button.restart:hover {
-    background: #0263ca;
+    background: #6c5ce7;
 }
 
 .buttons button.quit {
-    color: #007bff;
-    background: #fff;
+    color: #2d3436;
+    background: #dfe6e9;
 }
 
 .buttons button.quit:hover {
-    color: #fff;
-    background: #007bff;
+    color: #dfe6e9;
+    background: #2d3436;
 }
 
 .run_button button.quit {
-    color: #007bff;
-    background: #fff;
+    color: #2d3436;
+    background: #dfe6e9;
 }
 
 .run_button button.quit:hover {
-    color: #fff;
-    background: #007bff;
+    color: #dfe6e9;
+    background: #2d3436;
 }
