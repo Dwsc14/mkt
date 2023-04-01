@@ -142,13 +142,20 @@ function optionSelected(answer) {
     let correcAns = questions[que_count].answer; //getting correct answer from array
     const allOptions = option_list.children.length; //getting all option items
 
+
     if (userAns == correcAns) { //if user selected option is equal to array's correct answer
+        let num = Math.floor(Math.random() * (5 - 1 + 1)) + 1;
         userScore += 1; //upgrading score value with 1
         answer.classList.add("correct"); //adding green color to correct selected option
         answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
         console.log("Correct Answer");
         console.log("Your correct answers = " + userScore);
+
+        let img = "img/{}.jpg".format(num);
+        document.getElementById("myImg").src = img;
+
     } else {
+        let num = Math.floor(Math.random() * (5 - 1 + 1)) + 1;
         answer.classList.add("incorrect"); //adding red color to correct selected option
         answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
         console.log("Wrong Answer");
@@ -160,6 +167,9 @@ function optionSelected(answer) {
                 console.log("Auto selected correct answer.");
             }
         }
+
+        let img = "img/{}.jpg".format(-num);
+        document.getElementById("myImg").src = img;
     }
     for (i = 0; i < allOptions; i++) {
         option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
@@ -192,3 +202,10 @@ function queCounter(index) {
     let totalQueCounTag = '<span><p>' + index + '</p> of <p>' + questions.length + '</p> Questions</span>';
     bottom_ques_counter.innerHTML = totalQueCounTag;  //adding new span tag inside bottom_ques_counter
 }
+
+String.prototype.format = function () {
+    var i = 0, args = arguments;
+    return this.replace(/{}/g, function () {
+        return typeof args[i] != 'undefined' ? args[i++] : '';
+    });
+};
