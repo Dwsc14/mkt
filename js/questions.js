@@ -4,511 +4,511 @@ let questions = [
         question: "_____ can be defined as a set of activities directed at an organization's resources, with the aim of achieving organizational goals in an efficient and effective manner.",
         answer: "Management",
         options: [
-            "Economics", "Job de-skilling", "Management", "Self-dealing"]
+            "Economics", "Job de-skilling", "Management", "Self-dealing", "Divestment"]
     }, {
         numb: 2,
         question: "Which of the following helps make the management process efficient?",
         answer: "Using resources in a cost-effective manner",
         options: [
-            "Increasing overhead production costs", "Using resources in a cost-effective manner", "Making management decisions independently of the organization's external environment", "Using the majority of resources for sales promotion activities"]
+            "Increasing overhead production costs", "Using resources in a cost-effective manner", "Making management decisions independently of the organization's external environment", "Using the majority of resources for sales promotion activities", "Using micromanagement techniques"]
     }, {
         numb: 3,
         question: "A management process is considered to be effective when:",
         answer: "the right decisions are made and implemented.",
         options: [
-            "overhead production costs are increased.", "the right decisions are made and implemented.", "decisions are made independently of the organization's external environment.", "the same amount of resources are allocated to all the functions of the organization."]
+            "overhead production costs are increased.", "the right decisions are made and implemented.", "decisions are made independently of the organization's external environment.", "the same amount of resources are allocated to all the functions of the organization.", "the organization is highly centralized."]
     }, {
         numb: 4,
         question: "One of the titles found in the group of middle managers is _____.",
         answer: "plant manager",
         options: [
-            "director", "vice president", "supervisor", "office manager"]
+            "director", "vice president", "supervisor", "office manager", "plant manager"]
     }, {
         numb: 5,
         question: "Which of the following statements is true about top managers?",
         answer: "They officially represent their organization to the external environment.",
         options: [
-            "They are the largest group of managers in most organizations.", "They officially represent their organization to the external environment.", "They primarily oversee the day-to-day operations of an organization.", "They supervise and coordinate the activities of first-line managers."]
+            "They are the largest group of managers in most organizations.", "They officially represent their organization to the external environment.", "They primarily oversee the day-to-day operations of an organization.", "They supervise and coordinate the activities of first-line managers.", "They supervise and coordinate the activities of operating employees."]
     }, {
         numb: 6,
         question: "Which of the following is the role of top managers in an organization?",
         answer: "Creating organizational goals and overall strategy",
         options: [
-            "Overseeing day-to-day operations", "Performing routine administrative tasks", "Implementing plans of first-line managers", "Creating organizational goals and overall strategy"]
+            "Overseeing day-to-day operations", "Performing routine administrative tasks", "Implementing plans of first-line managers", "Creating organizational goals and overall strategy", "Coordinating the work of first-line managers"]
     }, {
         numb: 7,
         question: "_____ make decisions about activities such as investing in research and development (R&D) and entering or abandoning various markets.",
         answer: "Top managers",
         options: [
-            "Division heads", "Limited partners", "First-line managers", "Middle managers"]
+            "Division heads", "Limited partners", "First-line managers", "Middle managers", "Top managers"]
     }, {
         numb: 8,
         question: "A common middle-management title is:",
         answer: "division head.",
         options: [
-            "chief executive officer.", "division head.", "supervisor.", "office manager."]
+            "chief executive officer.", "division head.", "supervisor.", "office manager.", "coordinator."]
     }, {
         numb: 9,
         question: "_____ are probably the largest group of managers in most organizations, and are primarily responsible for implementing the policies and plans of an organization.",
         answer: "Middle managers",
         options: [
-            "Middle managers", "Top managers", "The members of board of directors", "First-line managers"]
+            "Middle managers", "Top managers", "The members of board of directors", "First-line managers", "Floor supervisors"]
     }, {
         numb: 10,
         question: "First-line managers:",
         answer: "handle administrative duties.",
         options: [
-            "are primarily responsible for implementing the policies and plans developed by top managers.", "make decisions about activities such as acquiring other companies.", "officially represent their organization to the external environment.", "create organizational goals."]
+            "are primarily responsible for implementing the policies and plans developed by top managers.", "make decisions about activities such as acquiring other companies.", "officially represent their organization to the external environment.", "create organizational goals.", "handle administrative duties."]
     }, {
         numb: 11,
         question: "Which of the following statements is true about first-line managers?",
         answer: "They typically spend a large proportion of their time supervising the work of their subordinates.",
         options: [
-            "They are primarily responsible for implementing policies made by top managers.", "They are typically involved in creating overall organizational strategies and goals.", "They officially represent their organization to the external environment.", "They typically spend a large proportion of their time supervising the work of their subordinates."]
+            "They are primarily responsible for implementing policies made by top managers.", "They are typically involved in creating overall organizational strategies and goals.", "They officially represent their organization to the external environment.", "They typically spend a large proportion of their time supervising the work of their subordinates.", "They make decisions about activities such as acquiring other companies."]
     }, {
         numb: 12,
         question: "_____ involves selecting a course of action from a set of alternatives.",
         answer: "Decision making",
         options: [
-            "Divesting", "Controlling", "Leading", "Decision making"]
+            "Divesting", "Controlling", "Leading", "Decision making", "Job deskilling"]
     }, {
         numb: 13,
         question: "One of the titles found in the group of first-line managers is _____.",
         answer: "coordinator",
         options: [
-            "chief executive officer", "coordinator", "division head", "general manager"]
+            "chief executive officer", "coordinator", "division head", "general manager", "plant superintendent"]
     }, {
         numb: 14,
         question: "Determining how a company's activities and resources are to be grouped is called _____.",
         answer: "organizing",
         options: [
-            "leading", "controlling", "deskilling", "planning"]
+            "leading", "controlling", "deskilling", "planning", "organizing"]
     }, {
         numb: 15,
         question: "yler works with Alpha Pharmaceuticals Inc. He is primarily responsible for overseeing production activities. Tyler is concerned with decisions such as the number of product units that need to be manufactured, the overall functioning of the production plants, and the quality of products. Tyler is most likely to be a(n)_____.",
         answer: "operations manager",
         options: [
-            "operations manager", "marketing manager", "human resource manager", "sales manager"]
+            "operations manager", "marketing manager", "human resource manager", "sales manager", "public relations manager"]
     }, {
         numb: 16,
         question: "Typical responsibilities of operations managers include:",
         answer: "inventory control.",
         options: [
-            "inventory control.", "sales promotion.", "accounting.", "employee development."]
+            "inventory control.", "sales promotion.", "accounting.", "employee development.", "benefit systems development."]
     }, {
         numb: 17,
         question: "In its simplest form, _____ means setting an organization's goals and deciding how best to achieve them.",
         answer: "planning",
         options: [
-            "coordinating", "deskilling", "organizing", "controlling"]
+            "coordinating", "deskilling", "organizing", "controlling", "planning"]
     }, {
         numb: 18,
         question: "Which of the following would be included in the management function of planning?",
         answer: "Selecting the course of action most likely to lead to success",
         options: [
-            "Selecting the course of action most likely to lead to success", "Monitoring progress toward the achievement of goals", "Motivating others to higher levels of achievement", "Communicating company policies to subordinates"]
+            "Selecting the course of action most likely to lead to success", "Monitoring progress toward the achievement of goals", "Motivating others to higher levels of achievement", "Communicating company policies to subordinates", "Organizing people and resources"]
     }, {
         numb: 19,
         question: "_____ work in areas like new product development, promotion, and distribution.",
         answer: "Marketing managers",
         options: [
-            "Human resource managers", "Marketing managers", "Plant managers", "Operations managers"]
+            "Human resource managers", "Marketing managers", "Plant managers", "Operations managers", "Finance managers"]
     }, {
         numb: 20,
         question: "_____ are typically involved in recruiting and selecting employees, training and development, designing compensation and benefit systems, formulating performance appraisal systems, and discharging low-performing and problem employees.",
         answer: "Human resource managers",
         options: [
-            "Operations managers", "Human resource managers", "Plant managers", "Marketing managers"]
+            "Operations managers", "Human resource managers", "Plant managers", "Marketing managers", "Finance managers"]
     }, {
         numb: 21,
         question: "_____ work at getting consumers and clients to buy the organization's products or services.",
         answer: "Marketing managers",
         options: [
-            "Operations managers", "Marketing managers", "Regional managers", "Financial managers"]
+            "Operations managers", "Marketing managers", "Regional managers", "Financial managers", "Human resources managers"]
     }, {
         numb: 22,
         question: "_____ are concerned with creating and managing the systems that create an organization's products and services.",
         answer: "Operations managers",
         options: [
-            "Marketing managers", "Human resources managers", "Financial managers", "Operations managers"]
+            "Marketing managers", "Human resources managers", "Financial managers", "Operations managers", "First-line managers"]
     }, {
         numb: 23,
         question: "_____ are not associated with any particular management specialty.",
         answer: "Administrative managers",
         options: [
-            "Office managers", "Floor supervisors", "Public relations managers", "Operations managers"]
+            "Office managers", "Floor supervisors", "Public relations managers", "Operations managers", "Administrative managers"]
     }, {
         numb: 24,
         question: "_____ is the set of processes used to get members of an organization to work together to further the interests of the organization.",
         answer: "Leading",
         options: [
-            "Planning", "Organizing", "Controlling", "Leading"]
+            "Planning", "Organizing", "Controlling", "Leading", "Deskilling"]
     }, {
         numb: 25,
         question: "The final phase of the management process is _____ that involves monitoring the organization's progress toward its goals.",
         answer: "controlling",
         options: [
-            "planning", "organizing", "leading", "controlling"]
+            "planning", "organizing", "leading", "controlling", "deskilling"]
     }, {
         numb: 26,
         question: "The management function of leading involves:",
         answer: "motivating and influencing others.",
         options: [
-            "setting an organization's goals.", "motivating and influencing others.", "grouping activities and resources.", "interacting with the external business environment."]
+            "setting an organization's goals.", "motivating and influencing others.", "grouping activities and resources.", "interacting with the external business environment.", "creating organizational strategies."]
     }, {
         numb: 27,
         question: "The management at Beta Corp. has introduced new employment policies. The mangers are now tracking and monitoring the implementation of the new policies. Which of the following management functions is illustrated in the scenario?",
         answer: "Controlling",
         options: [
-            "Deskilling", "Controlling", "Organizing", "Leading"]
+            "Deskilling", "Controlling", "Organizing", "Leading", "Planning"]
     }, {
         numb: 28,
         question: "The skills necessary to accomplish or understand the specific kind of work done in an organization are called _____ skills.",
         answer: "technical",
         options: [
-            "diagnostic", "time management", "conceptual", "technical"]
+            "diagnostic", "time management", "conceptual", "technical", "spatial"]
     }, {
         numb: 29,
         question: "____ skills refer to the abilities of managers to think in the abstract, understand the overall workings of the organization and its environment, to grasp how all the parts of the organization fit together, and to view the organization in a holistic manner.",
         answer: "Conceptual",
         options: [
-            "Time management", "Technical", "Conceptual", "Interpersonal"]
+            "Time management", "Technical", "Conceptual", "Interpersonal", "Communication"]
     }, {
         numb: 30,
         question: "Technical skills:",
         answer: "are especially important for first-line managers.",
         options: [
-            "are crucial for top managers more than any other managers.", "are nonspecific and broad.", "depend on a manager's ability to think in the abstract.", "are especially important for first-line managers."]
+            "are crucial for top managers more than any other managers.", "are nonspecific and broad.", "depend on a manager's ability to think in the abstract.", "are especially important for first-line managers.", "are used the most when making organizational policies."]
     }, {
         numb: 31,
         question: "When a manager answers a subordinate's question regarding the process of creating a report from raw data, he is relying on his _____ skills.",
         answer: "technical",
         options: [
-            "abstract", "technical", "time management", "decision-making"]
+            "abstract", "technical", "time management", "decision-making", "spatial"]
     }, {
         numb: 32,
         question: "The ability to motivate others is a(n) _____ skill.",
         answer: "interpersonal",
         options: [
-            "conceptual", "technical", "communication", "interpersonal"]
+            "conceptual", "technical", "communication", "interpersonal", "diagnostic"]
     }, {
         numb: 33,
         question: "Winston is often intimidated and uncomfortable with his superiors. Winston needs to develop his _____ skills to be able to communicate easily with his superiors.",
         answer: "interpersonal",
         options: [
-            "time management", "spatial", "interpersonal", "conceptual"]
+            "time management", "spatial", "interpersonal", "conceptual", "diagnostic"]
     }, {
         numb: 34,
         question: "Maria, a manager, studied the performances of the various business units of her organization. After making an assessment, Maria came to the conclusion that the overall costs of the organization can be reduced by integrating the functions of two of the business units. This scenario illustrates Maria's _____ skills.",
         answer: "conceptual",
         options: [
-            "technical", "time management", "social", "interpersonal"]
+            "technical", "time management", "social", "interpersonal", "conceptual"]
     }, {
         numb: 35,
         question: "_____ skills refer to the abilities of managers to visualize the most appropriate response to a situation.",
         answer: "Diagnositc",
         options: [
-            "Social", "Interpersonal", "Technical", "Diagnositc"]
+            "Social", "Interpersonal", "Technical", "Diagnositc", "Communication"]
     }, {
         numb: 36,
         question: "_____ skills refer to a manager's abilities to both effectively convey ideas and information to others and effectively receive ideas and information from others.",
         answer: "Communication",
         options: [
-            "Technical", "Abstract", "Communication", "Diagnostic"]
+            "Technical", "Abstract", "Communication", "Diagnostic", "Conceptual"]
     }, {
         numb: 37,
         question: "When a manager writes a mail to a supplier apologizing for a delay in payment, he is most likely to be using his _____ skills.",
         answer: "communication",
         options: [
-            "conceptual", "technical", "communication", "abstract"]
+            "conceptual", "technical", "communication", "abstract", "spatial"]
     }, {
         numb: 38,
         question: "Sarah, a manager, has postponed the task of preparing a report as she has realized that she needs to meet a supplier immediately. This scenario illustrates Sarah's _____ skills.",
         answer: "time management",
         options: [
-            "conceptual", "spatial", "time management", "technical"]
+            "conceptual", "spatial", "time management", "technical", "abstract"]
     }, {
         numb: 39,
         question: "Jordon, a manager, realizes that many employees are leaving the organization. He identifies inconvenient work timings and some of the new employment policies as the causes. Jordon decides to introduce better policies and flexible work timings to reduce employee turnover. This scenario illustrates Jordon's _____ skills.",
         answer: "diagnostic",
         options: [
-            "mechanical", "technical", "diagnostic", "spatial"]
+            "mechanical", "technical", "diagnostic", "spatial", "time management"]
     }, {
         numb: 40,
         question: "_____ refer to a manager's ability to prioritize work, to work efficiently, and to delegate work appropriately.",
         answer: "Time-management skills",
         options: [
-            "Diagnostic skills", "Commanding skills", "Decision-making skills", "Time-management skills"]
+            "Diagnostic skills", "Commanding skills", "Decision-making skills", "Time-management skills", "Conceptual skills"]
     }, {
         numb: 41,
         question: "A manager who uses the scientific approach to management when making decisions is most likely rely on:",
         answer: "Logic.",
         options: [
-            "instincts.", "stereotypes.", "personal experience.", "intuition."]
+            "instincts.", "stereotypes.", "personal experience.", "intuition.", "Logic."]
     }, {
         numb: 42,
         question: "A _____ is a conceptual framework for organizing knowledge and providing a blueprint for action.",
         answer: "theory",
         options: [
-            "classic", "mnemonic", "prediction", "theory"]
+            "classic", "mnemonic", "prediction", "theory", "doctrine"]
     }, {
         numb: 43,
         question: "When employees deliberately work at a slower pace than their capabilities, it is called _____.",
         answer: "Soldiering",
         options: [
-            "Soldiering", "persevering", "controlling", "planning"]
+            "Soldiering", "persevering", "controlling", "planning", "deceiving"]
     }, {
         numb: 44,
         question: "Scientific management focuses on:",
         answer: "improving the efficiency of individual workers.",
         options: [
-            "improving the efficiency of individual workers.", "increasing employee turnover.", "analyzing the external rather than the internal environment of an organization.", "encouraging soldiering among employees."]
+            "improving the efficiency of individual workers.", "increasing employee turnover.", "analyzing the external rather than the internal environment of an organization.", "encouraging soldiering among employees.", "increasing overhead costs."]
     }, {
         numb: 45,
         question: "Lillian Gilbreth was one of the earliest advocates of:",
         answer: "scientific management.",
         options: [
-            "the contingency theory.", "scientific management.", "administrative management.", "theory X and Y."]
+            "the contingency theory.", "scientific management.", "administrative management.", "theory X and Y.", "the Hawthorne studies."]
     }, {
         numb: 46,
         question: "The first person to identify the managerial functions of planning, organizing, leading, and controlling was:",
         answer: "Henri Fayol.",
         options: [
-            "Elton Mayo.", "Lillian Gilbreth.", "Henri Fayol.", "Hugo Munsterberg."]
+            "Elton Mayo.", "Lillian Gilbreth.", "Henri Fayol.", "Hugo Munsterberg.", "Mary Parker Follett."]
     }, {
         numb: 47,
         question: "Which of the following focuses on the management of the entire firm as opposed to the jobs of individual workers?",
         answer: "Administrative management",
         options: [
-            "The Contingency theory", "Scientific management", "Administrative management", "Theory X"]
+            "The Contingency theory", "Scientific management", "Administrative management", "Theory X", "The Hawthorne studies"]
     }, {
         numb: 48,
         question: "Which of the following statements is true of administrative management?",
         answer: "It encompasses the concepts of planning, organizing, and controlling.",
         options: [
-            "It deals with the jobs of individual employees.", "It was first introduced by Frank and Lillian Gilbreth.", "It focuses solely on combating soldiering.", "It encompasses the concepts of planning, organizing, and controlling."]
+            "It deals with the jobs of individual employees.", "It was first introduced by Frank and Lillian Gilbreth.", "It focuses solely on combating soldiering.", "It encompasses the concepts of planning, organizing, and controlling.", "It exclusively focuses on individual attitudes and behaviors and group processes."]
     }, {
         numb: 49,
         question: "The scientific management perspective:",
         answer: "emphasized the importance of supervising workers.",
         options: [
-            "assumed that workers liked their work.", "focused on the overall management of an organization rather than individual employees.", "emphasized the importance of supervising workers.", "was based on the assumption that workers are internally motivated to achieve organizational goals."]
+            "assumed that workers liked their work.", "focused on the overall management of an organization rather than individual employees.", "emphasized the importance of supervising workers.", "was based on the assumption that workers are internally motivated to achieve organizational goals.", "placed maximum emphasis on individual attitudes and behaviors."]
     }, {
         numb: 50,
         question: "Which of the following statements is true about the behavioral management perspective?",
         answer: "It was influenced by the industrial psychology movement.",
         options: [
-            "It was first introduced by Max Weber.", "It viewed jobs and organizations from a mechanistic point of view.", "It was influenced by the industrial psychology movement.", "It essentially dealt with job specialization techniques."]
+            "It was first introduced by Max Weber.", "It viewed jobs and organizations from a mechanistic point of view.", "It was influenced by the industrial psychology movement.", "It essentially dealt with job specialization techniques.", "It slighted the role of the individual in organizations."]
     }, {
         numb: 51,
         question: "The concept of _____, suggested by Weber, is based on a rational set of guidelines for structuring organizations in the most efficient manner.",
         answer: "bureaucracy",
         options: [
-            "adhocracy", "bureaucracy", "technocracy", "meritocracy"]
+            "adhocracy", "bureaucracy", "technocracy", "meritocracy", "scientocracy"]
     }, {
         numb: 52,
         question: "Early advocates of the classical management perspective viewed organizations and jobs from an essentially _____ point of view.",
         answer: "Mechanistic",
         options: [
-            "Mechanistic", "behavioral", "humanistic", "systematic"]
+            "Mechanistic", "behavioral", "humanistic", "systematic", "contingent"]
     }, {
         numb: 53,
         question: "_____ is recognized as the father of industrial psychology.",
         answer: "Hugo Munsterberg",
         options: [
-            "Douglas McGregor", "Elton Mayo", "Abraham Maslow", "Hugo Munsterberg"]
+            "Douglas McGregor", "Elton Mayo", "Abraham Maslow", "Hugo Munsterberg", "Henri Fayol"]
     }, {
         numb: 54,
         question: "The management pioneer who performed the Hawthorne studies at Western Electric was:",
         answer: "Elton Mayo.",
         options: [
-            "Lillian Gilbreth.", "Elton Mayo.", "Henry Gantt.", "Frank Gilbreth."]
+            "Lillian Gilbreth.", "Elton Mayo.", "Henry Gantt.", "Frank Gilbreth.", "Frederick Taylor."]
     }, {
         numb: 55,
         question: "in the Hawthorne Studies, workers who overproduced were branded as _____.",
         answer: "rate busters",
         options: [
-            "operators", "squealers", "rate busters", "chiselers"]
+            "operators", "squealers", "rate busters", "chiselers", "producers"]
     }, {
         numb: 56,
         question: "Which of the following was one of the findings of the Hawthorne studies?",
         answer: "Both individual and social processes play a major role in shaping worker behavior.",
         options: [
-            "Workers tend to underperform when they are given special attention or supervision.", "Higher pay and incentives are more important to workers than social acceptance.", "All the workers in a group work toward achieving productivity targets set by supervisors.", "Both individual and social processes play a major role in shaping worker behavior."]
+            "Workers tend to underperform when they are given special attention or supervision.", "Higher pay and incentives are more important to workers than social acceptance.", "All the workers in a group work toward achieving productivity targets set by supervisors.", "Both individual and social processes play a major role in shaping worker behavior.", "Workers in all groups tend to encourage and support members who are over productive."]
     }, {
         numb: 57,
         question: "Which of the following is a Theory Y assumption?",
         answer: "People do not naturally dislike work.",
         options: [
-            "Social processes do not influence the performance of workers.", "People are not internally motivated to achieve their goals.", "People do not naturally dislike work.", "People like to be directed as they want security."]
+            "Social processes do not influence the performance of workers.", "People are not internally motivated to achieve their goals.", "People do not naturally dislike work.", "People like to be directed as they want security.", "People perform better when they are threatened by the manager."]
     }, {
         numb: 58,
         question: "Which of the following assumptions is represented by Theory Y?",
         answer: "People are bright, but under most organizational conditions, their potential is underutilized.",
         options: [
-            "People prefer to be directed, to avoid responsibility, and to want security.", "People are bright, but under most organizational conditions, their potential is underutilized.", "People do not like work and try to avoid it.", "The productivity of workers is not affected by social processes at the workplace."]
+            "People prefer to be directed, to avoid responsibility, and to want security.", "People are bright, but under most organizational conditions, their potential is underutilized.", "People do not like work and try to avoid it.", "The productivity of workers is not affected by social processes at the workplace.", "Managers need to be coercive to get work done from their workers."]
     }, {
         numb: 59,
         question: "A difference between Theory X and Theory Y is that:",
         answer: "Theory Y represents the assumptions made by human relations advocates.",
         options: [
-            "Theory X makes positive assumptions.", "Theory Y is consistent with the views of scientific management.", "Theory Y assumes that people lack ambition.", "Theory Y represents the assumptions made by human relations advocates."]
+            "Theory X makes positive assumptions.", "Theory Y is consistent with the views of scientific management.", "Theory Y assumes that people lack ambition.", "Theory Y represents the assumptions made by human relations advocates.", "Theory Y assumes that people naturally dislike work."]
     }, {
         numb: 60,
         question: "A Theory Y assumption is that:",
         answer: "people are committed to goals to the degree that they receive personal rewards when they reach their objectives.",
         options: [
-            "incentives rather than social processes influence workers.", "managers have to control, direct, coerce, and threaten employees to get them to work toward organizational goals.", "people prefer to be directed, to avoid responsibility, and to want security; they have little ambition.", "people are committed to goals to the degree that they receive personal rewards when they reach their objectives."]
+            "incentives rather than social processes influence workers.", "managers have to control, direct, coerce, and threaten employees to get them to work toward organizational goals.", "people prefer to be directed, to avoid responsibility, and to want security; they have little ambition.", "people are committed to goals to the degree that they receive personal rewards when they reach their objectives.", "people naturally dislike work and try to avoid it."]
     }, {
         numb: 61,
         question: "The _____ proposed that workers respond primarily to the social context of the workplace, including social conditioning, group norms, and interpersonal dynamics.",
         answer: "human relations movement",
         options: [
-            "classical management perspective", "human relations movement", "systems theory", "management science perspective"]
+            "classical management perspective", "human relations movement", "systems theory", "management science perspective", "organizational theory"]
     }, {
         numb: 62,
         question: "Which of the following is a Theory X assumption?",
         answer: "People have little ambition.",
         options: [
-            "People will both seek and accept responsibility.", "Managers are harsh on their employees.", "People have little ambition.", "People are internally motivated."]
+            "People will both seek and accept responsibility.", "Managers are harsh on their employees.", "People have little ambition.", "People are internally motivated.", "People do not naturally dislike work."]
     }, {
         numb: 63,
         question: "Which of the following draws from psychology, sociology, anthropology, economics, and medicine?",
         answer: "Organizational behavior",
         options: [
-            "Organizational behavior", "Scientific management", "Administrative management", "Systems perspective"]
+            "Organizational behavior", "Scientific management", "Administrative management", "Systems perspective", "Contingency perspective"]
     }, {
         numb: 64,
         question: "When a manufacturing plant uses mathematical models to plan production and schedule equipment maintenance, it is drawing upon:",
         answer: "management science.",
         options: [
-            "scientific management.", "administrative management.", "management science.", "behavioral perspective."]
+            "scientific management.", "administrative management.", "management science.", "behavioral perspective.", "Theory X assumptions."]
     }, {
         numb: 65,
         question: "Which of the following represent the two branches of the quantitative management theory?",
         answer: "Management science and operations management",
         options: [
-            "Scientific management and administrative management", "Human relations movement and organizational behavior", "Contingency theory and systems theory", "Theory X and Theory Y"]
+            "Scientific management and administrative management", "Human relations movement and organizational behavior", "Contingency theory and systems theory", "Theory X and Theory Y", "Management science and operations management"]
     }, {
         numb: 66,
         question: "The _____ perspective focuses on decision making, cost-effectiveness, mathematical models, and the use of computers.",
         answer: "quantitative management",
         options: [
-            "systems management", "behavioral management", "scientific management", "administrative management"]
+            "systems management", "behavioral management", "scientific management", "administrative management", "quantitative management"]
     }, {
         numb: 67,
         question: "Which of the following statements is true about management science?",
         answer: "It focuses on mathematical representations of reality.",
         options: [
-            "It is part of the classical management perspective.", "It relies on bureaucratic techniques proposed by Max Weber.", "It focuses on mathematical representations of reality.", "It is concerned with improving the performance of individual workers."]
+            "It is part of the classical management perspective.", "It relies on bureaucratic techniques proposed by Max Weber.", "It focuses on mathematical representations of reality.", "It is concerned with improving the performance of individual workers.", "It introduced the piecework pay system."]
     }, {
         numb: 68,
         question: "Which of the following statements is true about operations management?",
         answer: "It can be applied more directly to managerial situations than management science.",
         options: [
-            "It is more statistically sophisticated than management science.", "It exclusively focuses on improving employee attitudes and behavior.", "It can be applied more directly to managerial situations than management science.", "It relies more on mathematical models than management science."]
+            "It is more statistically sophisticated than management science.", "It exclusively focuses on improving employee attitudes and behavior.", "It can be applied more directly to managerial situations than management science.", "It relies more on mathematical models than management science.", "It cannot be applied to inventory control and production operations of an organization."]
     }, {
         numb: 69,
         question: "_____ is considered to be a form of applied management science.",
         answer: "Operations management",
         options: [
-            "Scientific management", "Lean manufacturing", "Behavioral management", "Human relations movement"]
+            "Scientific management", "Lean manufacturing", "Behavioral management", "Human relations movement", "Operations management"]
     }, {
         numb: 70,
         question: "In the context of the systems perspective, an output would be:",
         answer: "services.",
         options: [
-            "technological processes.", "labor skills.", "services.", "raw materials."]
+            "technological processes.", "labor skills.", "services.", "raw materials.", "human resources."]
     }, {
         numb: 71,
         question: "In the context of the systems perspective, an input would be:",
         answer: "human resources.",
         options: [
-            "human resources.", "losses.", "feedback loops.", "products."]
+            "human resources.", "losses.", "feedback loops.", "products.", "services."]
     }, {
         numb: 72,
         question: "Relatively new management concepts such as supply chain management and new techniques such as enterprise resource planning have evolved from the _____ perspective.",
         answer: "quantitative management",
         options: [
-            "quantitative management", "systems", "contingency", "classical management"]
+            "quantitative management", "systems", "contingency", "classical management", "behavioral management"]
     }, {
         numb: 73,
         question: "In the systems perspective, outputs include _____.",
         answer: "employee attitudes",
         options: [
-            "raw materials", "controls", "funds", "human resources"]
+            "raw materials", "controls", "funds", "human resources", "employee attitudes"]
     }, {
         numb: 74,
         question: "Which of the following statements is true in the context of the systems perspective?",
         answer: "Organizations essentially should be open systems.",
         options: [
-            "Entropy is a process that leads to system progress.", "Products and services can be considered as system inputs.", "A closed system is closely connected with and interacts with its environment.", "The performance of one subsystem does not affect the performance of another subsystem."]
+            "Entropy is a process that leads to system progress.", "Products and services can be considered as system inputs.", "A closed system is closely connected with and interacts with its environment.", "The performance of one subsystem does not affect the performance of another subsystem.", "Organizations essentially should be open systems."]
     }, {
         numb: 75,
         question: "_____ is a normal process that leads to system decline.",
         answer: "Entropy",
         options: [
-            "Economy of scale", "Synergy", "Entropy", "Contingency"]
+            "Economy of scale", "Synergy", "Entropy", "Contingency", "Symbiosis"]
     }, {
         numb: 76,
         question: "_____ suggests that organizational units (or subsystems) may often be more successful working together than working alone.",
         answer: "Synergy",
         options: [
-            "Divestiture", "Operations management", "Synergy", "Entropy"]
+            "Divestiture", "Operations management", "Synergy", "Entropy", "Soldiering"]
     }, {
         numb: 77,
         question: "The _____ suggests that appropriate managerial behavior in a given situation depends on unique elements in a that situation.",
         answer: "contingency perspective",
         options: [
-            "behavioral management perspective", "quantitative management perspective", "systems perspective", "contingency perspective"]
+            "behavioral management perspective", "quantitative management perspective", "systems perspective", "contingency perspective", "universal perspective"]
     }, {
         numb: 78,
         question: "Emilio says, 'Employees and situations are unique. Sometimes I get good results by trying one approach, sometimes I decide to do something completely different.' Emilio's statement is best aligned with which of the following management views?",
         answer: "The contingency perspective",
         options: [
-            "The classical theory", "Administrative management", "The generalist perspective", "Theory X"]
+            "The classical theory", "Administrative management", "The generalist perspective", "Theory X", "The contingency perspective"]
     }, {
         numb: 79,
         question: "In the systems perspective, _____ emphasizes the importance of working together in a cooperative and coordinated fashion.",
         answer: "synergy",
         options: [
-            "synergy", "entropy", "contingency", "diversity"]
+            "synergy", "entropy", "contingency", "diversity", "uniformity"]
     }, {
         numb: 80,
         question: "A primary objective of management, from a systems perspective, is to continually reenergize the organization to avoid _____.",
         answer: "entropy",
         options: [
-            "reciprocity", "collaboration", "diversity", "entropy"]
+            "reciprocity", "collaboration", "diversity", "entropy", "synergy"]
     }, {
         numb: 81,
         question: "The _____ perspective states that effective managerial behavior in one situation cannot always be generalized to other situations.",
         answer: "contingency",
         options: [
-            "behavioral", "scientific management", "contingency", "administrative management"]
+            "behavioral", "scientific management", "contingency", "administrative management", "systems"]
     }, {
         numb: 82,
         question: "Which of the following statements is true about the contingency perspective?",
         answer: "It states that effective managerial behavior in one situation cannot always be generalized to other situations.",
         options: [
-            "It states that the organizations which are not influenced by their external environments tend to be more successful than others.", "It states that effective managerial behavior in one situation cannot always be generalized to other situations.", "It states that all employees tend to perform better when they are promised higher incentives.", "It states that the behavior of employees at work is not influenced by social processes."]
+            "It states that the organizations which are not influenced by their external environments tend to be more successful than others.", "It states that effective managerial behavior in one situation cannot always be generalized to other situations.", "It states that all employees tend to perform better when they are promised higher incentives.", "It states that the behavior of employees at work is not influenced by social processes.", "It is a part of the classical perspective of management."]
     }, {
         numb: 83,
         question: "Which of the following statements is true in the context of contemporary management trends?",
         answer: "More and more organizations are using quality as a basis for competition.",
         options: [
-            "More and more organizations are using quality as a basis for competition.", "The service sector of the economy has steadily declined.", "Younger people entering the workforce over the past 20 to 30 years are more devoted to work and more willing to adapt.", "The emphasis on business ethics has declined."]
+            "More and more organizations are using quality as a basis for competition.", "The service sector of the economy has steadily declined.", "Younger people entering the workforce over the past 20 to 30 years are more devoted to work and more willing to adapt.", "The emphasis on business ethics has declined.", "The emphasis on management of diversity has declined."]
     }, {
         numb: 84,
         question: "Improving the quality of products and services tends to increase _____.",
         answer: "productivity",
         options: [
-            "inertia", "entropy", "latency", "productivity"]
+            "inertia", "entropy", "latency", "productivity", "divestment"]
     }, {
         numb: 85,
         question: "The _____ perspective places emphasis on individual attitudes.",
         answer: "behavioral management",
         options: [
-            "contingency", "systems", "quantitative management", "administrative management"]
+            "contingency", "systems", "quantitative management", "administrative management", "behavioral management"]
     },
     {
         numb: 86,
